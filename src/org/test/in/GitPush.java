@@ -8,6 +8,8 @@ public class GitPush {
 				
 				System.out.println(name);
 				
+				System.out.println("davidpaul1595@gmail.com");
+				
 				
 					
 		}
